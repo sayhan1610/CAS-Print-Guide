@@ -51,14 +51,14 @@ Let's deal with the easy ones first:
 - Choose a **suitable location**, and save the file as **PDF**.
   - ![Save to PDF](saved.png)
 
-### 5. Organizing and Printing
+## Organizing and Printing
 
 - **Place all the files in a single folder** for efficiency.
 - You can either:
   - Print all files **at home** one by one.
   - Copy them to a **USB Flash Drive** to print from a **local store** or **school printer**.
 
-### 6. Good Luck! 🎉
+### Good Luck! 🎉
 
 ## FAQ
 
