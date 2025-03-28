@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Downloading the Files](#downloading-the-files)
-- [Printing the Documents](#printing-the-documents)
+- [Printing the Documents](#organizing-and-printing)
 - [FAQ](#faq)
 
 ## Downloading the Files
