@@ -1,4 +1,4 @@
-# How to Complete the Final CAS Requirements
+# How to Complete the Final CAS Requirements (Downloading and printing the files)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Let's deal with the easy ones first:
   ![Browser print dialogue](print.png)
 - In the print settings:
   - **Select Destination:** "Save to PDF".
-    ![Save to PDF](save.png)
+    - ![Save to PDF](save.png)
   - **Orientation:** Portrait (best results).
   - **Paper Size:** A4.
   - **Scale:** 100% or "Fit to Page Width".
