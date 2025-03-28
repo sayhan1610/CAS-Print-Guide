@@ -46,10 +46,10 @@ Let's deal with the easy ones first:
 
 - Locate the downloaded **.docx** files.
 - Open them and click **File > Save As**.
-  ![File tab](file.png)
-  ![Save as](saveas.png)
+  - ![File tab](file.png)
+  - ![Save as](saveas.png)
 - Choose a **suitable location**, and save the file as **PDF**.
-  ![Save to PDF](saved.png)
+  - ![Save to PDF](saved.png)
 
 ### 5. Organizing and Printing
 
