@@ -86,6 +86,9 @@ A: You can print at a local print shop, a school printer, or a library.
 **Q: Can I submit my CAS documents digitally instead of printing?**  
 A: Ms. Yasmine requires both the digital copies and the physical copies, so no unfortunately.
 
+**Q: My manageback shows comments but the downloaded file doesn't. What should I do?**  
+A: Make sure you've downloaded the annotated file when downloading if you are facing this issue.
+
 ---
 
 I put this together to make everyone’s life easier—even though I didn’t have to. Because at the end of the day, we all just want to get through CAS without losing our minds. Hope this helps! If you run into issues, ask our CAS coordinator or me :\)
